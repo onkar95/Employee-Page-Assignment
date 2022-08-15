@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Employee-Page-Assignment-gh-pages/static/css/main.f3b1daba.css",
+    "main.js": "/Employee-Page-Assignment-gh-pages/static/js/main.039bc639.js",
+    "static/js/787.124059ee.chunk.js": "/Employee-Page-Assignment-gh-pages/static/js/787.124059ee.chunk.js",
+    "index.html": "/Employee-Page-Assignment-gh-pages/index.html",
+    "main.f3b1daba.css.map": "/Employee-Page-Assignment-gh-pages/static/css/main.f3b1daba.css.map",
+    "main.039bc639.js.map": "/Employee-Page-Assignment-gh-pages/static/js/main.039bc639.js.map",
+    "787.124059ee.chunk.js.map": "/Employee-Page-Assignment-gh-pages/static/js/787.124059ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3b1daba.css",
+    "static/js/main.039bc639.js"
+  ]
+}
